@@ -2,7 +2,7 @@
 
 Welcome to **Personalized Study Assistant**, an AI-powered tool designed to help learners by suggesting customized study plans and topics. This project uses machine learning algorithms to track progress and recommend study topics based on the user's performance.
 
-![Logo](https://link-to-your-logo-image.png)
+![Logo](https://your-image-url.com/logo.png)
 
 ## Table of Contents
 
@@ -18,6 +18,8 @@ Welcome to **Personalized Study Assistant**, an AI-powered tool designed to help
 ## Overview
 
 The Personalized Study Assistant adapts to each user's study needs and offers personalized recommendations. By analyzing progress data, it suggests which subjects to focus on and provides tailored study strategies.
+
+![Study Flow](https://your-image-url.com/study-flow-diagram.png)
 
 ## Features
 
