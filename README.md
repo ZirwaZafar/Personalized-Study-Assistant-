@@ -14,8 +14,4 @@ Learn 15 new English words daily with engaging quizzes and flashcards.
 
 ---
 
-### Steps to Add the Image:
-1. **Image Storage**: Save the image in your project folder under `assets/` and name it `girl_with_hawk.jpg`. Adjust the path if you store it elsewhere.
-2. **Customization**: Replace any placeholder GIFs or links with actual project-related content.
 
-This format blends creativity with functionality and ensures a visually appealing README. Let me know if you need more modifications!
