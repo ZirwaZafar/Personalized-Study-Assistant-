@@ -13,5 +13,5 @@ Learn 15 new English words daily with engaging quizzes and flashcards.
 
 
 ---
-
+![Girl with Hawk](https://github.com/YourUsername/YourRepoName/blob/main/assets/girl_with_hawk.jpg?raw=true)
 
