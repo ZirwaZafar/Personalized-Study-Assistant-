@@ -1,42 +1,43 @@
-# Personalized Study Assistant 🚀✨  
+# Personalized Study Assistant 🌟📖  
 ![GitHub stars](https://img.shields.io/github/stars/ZirwaZafar/Personalized-Study-Assistant-?style=social)  
-![GitHub license](https://img.shields.io/github/license/ZirwaZafar/Personalized-Study-Assistant-?style=flat)  
-![GitHub issues](https://img.shields.io/github/issues/ZirwaZafar/Personalized-Study-Assistant-?color=brightgreen)
+![GitHub license](https://img.shields.io/github/license/ZirwaZafar/Personalized-Study-Assistant-?style=flat-square)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ZirwaZafar/Personalized-Study-Assistant-?color=blueviolet)
 
-![Hero Banner](https://media.giphy.com/media/l4FGJ2J8lQ8PQsx9G/giphy.gif)
-
-### Empower Your Learning Journey 🌱  
-The **Personalized Study Assistant** is here to help you excel! Designed to boost productivity, expand knowledge, and keep you motivated, it’s your ultimate study companion.
+> **A smarter way to study, track progress, and stay motivated.** This assistant is tailored for students seeking to enhance their learning experience. 🎯
 
 ---
 
-## 🌟 Trending Features
+## 🌈 Key Features
 
-### 🌟 Diverse Learning Environment 🌏
-A personalized experience for every student, regardless of background.  
-![Students](https://via.placeholder.com/600x300?text=Diverse+Students+Learning)
-
-### 📚 Comprehensive Book Library
-Explore a rich collection of resources to support your studies.  
-![Books](https://via.placeholder.com/600x300?text=Library+Books)
-
-### 📊 Progress Analytics
-Visualize your study achievements with sleek charts and graphs.  
-![Analytics GIF](https://media.giphy.com/media/5xaOcLBKX2E1XE85bBu/giphy.gif)
+### 🧠 **Intelligent Study Planner**  
+Craft personalized study schedules and manage your time efficiently.  
+![Study Planner](https://media.giphy.com/media/JmDVRD1cNz16m/giphy.gif)
 
 ---
 
-## 🌈 UI Preview for Personalized Experience
-
-| Student Dashboard | Vocabulary Quiz | Study Planner |
-|-------------------|-----------------|---------------|
-| ![Dashboard](https://via.placeholder.com/200x120?text=Dashboard+Preview) | ![Quiz](https://via.placeholder.com/200x120?text=Quiz+Preview) | ![Planner](https://via.placeholder.com/200x120?text=Study+Planner) |
+### 📚 **Daily Vocabulary Boost**  
+Learn 15 new English words daily with engaging quizzes and flashcards.  
+![Vocabulary GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
-## 🚀 Quick Start Guide
+### 📊 **Visual Progress Tracker**  
+Track your achievements with beautiful charts and graphs to keep you motivated.  
+![Progress Tracker](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/ZirwaZafar/Personalized-Study-Assistant-.git
-cd Personalized-Study-Assistant-
+---
+
+## 🎨 Project Screenshots  
+
+| **Dashboard**             | **Vocabulary Builder**      | **Progress Tracker**         |
+|---------------------------|------------------------------|-------------------------------|
+| ![Dashboard](https://via.placeholder.com/200x120?text=Dashboard+Preview) | ![Quiz](https://via.placeholder.com/200x120?text=Quiz+Preview) | ![Tracker](https://via.placeholder.com/200x120?text=Tracker+Preview) |
+
+---
+
+## 🚀 How to Get Started
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/ZirwaZafar/Personalized-Study-Assistant-.git
+   cd Personalized-Study-Assistant-
