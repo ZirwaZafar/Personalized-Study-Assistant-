@@ -7,14 +7,6 @@
 
 ---
 
-## 🌈 Key Features
-
-### 🧠 **Intelligent Study Planner**  
-Craft personalized study schedules and manage your time efficiently.  
-![Study Planner](https://media.giphy.com/media/JmDVRD1cNz16m/giphy.gif)
-
----
-
 ### 📚 **Daily Vocabulary Boost**  
 Learn 15 new English words daily with engaging quizzes and flashcards.  
 ![Vocabulary GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
