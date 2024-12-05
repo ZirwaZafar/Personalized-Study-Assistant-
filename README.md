@@ -10,22 +10,6 @@ The **Personalized Study Assistant** is here to revolutionize your study habits!
 
 ---
 
-## 🔥 Trending Features
-
-### 🌟 Smart Study Planner  
-Your daily schedule made smarter! Get reminders, track time, and optimize study breaks.  
-![Planner GIF](https://media.giphy.com/media/5xtDarzp5at2qwSTXVe/giphy.gif)
-
-### 📚 Vocabulary Expansion  
-Learn and practice 15 new English words each day with real-time quizzes.  
-![Vocabulary GIF](https://media.giphy.com/media/2yb5iu4tveNna7Czo1/giphy.gif)
-
-### 📊 Personalized Analytics  
-Track your learning progress visually with sleek charts and insights.  
-![Analytics GIF](https://media.giphy.com/media/5xaOcLBKX2E1XE85bBu/giphy.gif)
-
----
-
 ## 🌈 Aesthetic UI Preview
 
 | Dashboard Preview 💻 | Vocabulary Quiz 📖 | Motivational Boost 🌟 |
